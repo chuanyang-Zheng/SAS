@@ -1,2 +1,2 @@
 # SAS
-This is official implmentation of "SAS: Simulated Attetnion Score
+This is official implmentation of "SAS: Simulated Attetnion Score"
